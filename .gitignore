@@ -1,0 +1,9 @@
+# Release binaries are attached to GitHub Releases, never committed to Git.
+*.app/
+*.dmg
+
+# Never commit licenses, signing keys, or local configuration.
+*.license
+*.key
+*.pem
+.env
