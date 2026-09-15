@@ -14,7 +14,7 @@ The application source code is not published here.
 
 ## Install
 
-1. Download the latest `CantoFlow.dmg` from [Releases](../../releases).
+1. Download the latest `CantoFlow.dmg` from [Releases](https://github.com/johnson-greate/cantoflow_mac_installer/releases).
 2. Open the DMG and drag `CantoFlow.app` into `Applications`.
 3. Open CantoFlow from Applications.
 4. If macOS blocks the first launch, open **System Settings → Privacy & Security** and choose **Open Anyway**.
